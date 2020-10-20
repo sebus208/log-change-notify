@@ -1,9 +1,6 @@
 Log Change Notify
 ======================
-2015-10-18
-
-
-
+Forked from https://github.com/lingtalfi/logrotator
 
 
 What is it?
